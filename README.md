@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I am Gustavo Gonzalez, data science and analytics programmer with a master’s degree in Atmospheric
-Sciences, a bachelor’s degree in physics and a technical degree in computer science. My experience covers
-database analysis, database merging, quality control, statistical analysis and visualization of results using
-R, Shell Scripting, Python, SQL, Power BI and LaTeX. My passion for programming has led me to focus
-on analytics and data science. I am also interested in developing apps and video games with Unity, CSharp
-and Kotlin.
+I am Gustavo González, a professional in data analysis and science with a solid academic background that includes a master's degree in Atmospheric Sciences, a bachelor's degree in Physics, and a technical degree in Computer Science. I have experience in database analysis and management, quality control, statistical analysis, and creating visualizations using tools like Excel, Power Query, R, Python, Power BI, SQL, and LaTeX. My focus is on transforming data into actionable solutions to support strategic decision-making. In my free time, I enjoy exploring application and video game development, utilizing tools such as Unity, C#, and Kotlin. My passion for programming and innovation drives me to continue growing in the field of business intelligence and technological development.
 <!--
 **GlezMGustavo/GlezMGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
